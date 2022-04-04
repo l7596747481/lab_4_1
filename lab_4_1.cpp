@@ -1,8 +1,4 @@
-﻿// Lab_4_1.cpp
-// Чик Іван
-// Лабораторна робота № 4.1
-// Цикли.
-// Варіант 9
+
 #include <iostream>
 #include <cmath>
 using namespace std;
